@@ -6,4 +6,9 @@ public class MyController {
 	{
 		System.out.println("안녕하세요.");
 	}
+	
+	public void niHao()
+	{
+		System.out.println("니하오!");
+	}
 }
